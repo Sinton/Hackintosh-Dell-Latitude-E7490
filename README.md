@@ -4,6 +4,7 @@ Hackintosh macOS OpenCore EFI
 > 注意：当前仓库存放了针对macOS不同版本的EFI引导文件，各个版本的区别在于网卡驱动是针对不同版本进行编译，具有版本适配性
 >
 > 不同版本的分支如下：
+> - [`Ventura`分支](https://github.com/Sinton/Hackintosh-Dell-Latitude-E7490/tree/Ventura): macOS 13.2
 >
 > - [`Monterey`分支](https://github.com/Sinton/Hackintosh-Dell-Latitude-E7490/tree/Monterey): macOS 12.6.2
 >
